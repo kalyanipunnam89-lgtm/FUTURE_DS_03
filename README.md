@@ -1,5 +1,17 @@
-Task 3: Marketing Funnel Analysis
-- Lead → MQL → SQL → Customer funnel analyzed
-- Conversion drop-offs identified
-- Bar chart created for visualization
-- Insights and recommendations added
+# Marketing Funnel & Conversion Analysis
+
+## Objective
+Analyze funnel performance and identify conversion drop-offs.
+
+## Tools Used
+Python, Pandas, Matplotlib
+
+## Key Insights
+- High drop-off from Visitors to Leads
+- Email channel performs best
+- Conversion rate is low in initial stage
+
+## Recommendations
+- Improve landing page design
+- Target quality audience
+- Optimize ad campaigns
